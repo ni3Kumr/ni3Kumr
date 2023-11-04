@@ -1,5 +1,5 @@
 #  About Me:
-🔭 I’m currently working on Full-Stack Java Development with Spring Boot 3 & React<br>🌱 I’m currently learning Springboot, ReactJS, Kotlin<br>💬 Ask me about coreJava, spring Booot<br>
+🔭 I’m currently working on Full-Stack Java Development with Spring Boot 3 & React<br>🌱 I’m currently learning Springboot, ReactJS, Kotlin<br>💬 Ask me about CoreJava, spring Booot<br>
 
 
 ## 🌐 Socials:
